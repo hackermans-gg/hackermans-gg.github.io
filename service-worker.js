@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.2dbfeadcb6c1a1edd4f2824fb3e4eba0.js"
+  "/precache-manifest.c68f2654b63da2897114693d4b247535.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "hackermans"});
